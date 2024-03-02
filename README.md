@@ -59,3 +59,7 @@ No example
 ### String Formatting Improvements
 
 [Example](https://godbolt.org/z/9Txfd6b5s)
+
+### Standard Library Modules
+
+[Example](https://godbolt.org/z/sqsjYz334)
