@@ -16,4 +16,4 @@
 
 ## Literal Suffix for size_t
 
-[Example 1](https://godbolt.org/z/8WYvx8b6j)
+[Example 1](https://godbolt.org/z/j44bMbxzd)
