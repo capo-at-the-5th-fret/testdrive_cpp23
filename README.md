@@ -75,3 +75,7 @@ No example
 ### std::mdspan
 
 [Example](https://godbolt.org/z/cEfM1PjdY)
+
+### std::generator
+
+[Example](https://godbolt.org/z/GoseGhvWE)
