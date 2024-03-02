@@ -83,3 +83,8 @@ No example
 ### basic_string(_view)::contains()
 
 [Example](https://godbolt.org/z/s4v73z7aK)
+
+### Construct string(_view) From nullptr
+
+[Example](https://godbolt.org/z/6T66Wfxed)
+
