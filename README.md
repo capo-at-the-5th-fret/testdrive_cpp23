@@ -63,3 +63,15 @@ No example
 ### Standard Library Modules
 
 [Example](https://godbolt.org/z/sqsjYz334)
+
+### std::flat_map / std::flat_multimap
+
+No example
+
+### std::flat_set / std::flat_multiset
+
+No example
+
+### std::mdspan
+
+[Example](https://godbolt.org/z/cEfM1PjdY)
