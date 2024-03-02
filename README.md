@@ -79,3 +79,7 @@ No example
 ### std::generator
 
 [Example](https://godbolt.org/z/GoseGhvWE)
+
+### basic_string(_view)::contains()
+
+[Example](https://godbolt.org/z/s4v73z7aK)
