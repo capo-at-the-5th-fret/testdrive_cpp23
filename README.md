@@ -93,3 +93,7 @@ No example
 [Example](https://godbolt.org/z/Pxez35axE)
 
 [Benchmark](https://quick-bench.com/q/InKHV-KCjgZTgUaa2RGtVMugtoQ)
+
+### Monadic Operations for std::optional
+
+[Example](https://godbolt.org/z/3a31szvqK)
