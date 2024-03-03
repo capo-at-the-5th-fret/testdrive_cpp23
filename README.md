@@ -88,3 +88,8 @@ No example
 
 [Example](https://godbolt.org/z/6T66Wfxed)
 
+### basic_string::resize_and_overwrite
+
+[Example](https://godbolt.org/z/Pxez35axE)
+
+[Benchmark](https://quick-bench.com/q/InKHV-KCjgZTgUaa2RGtVMugtoQ)
