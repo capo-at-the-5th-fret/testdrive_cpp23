@@ -109,3 +109,7 @@ No example
 ### Changes to Views Library
 
 [Example](https://godbolt.org/z/5PzTKodbP)
+
+### std::expected
+
+[Example](https://godbolt.org/z/G6f37qdvr)
