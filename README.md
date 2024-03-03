@@ -118,6 +118,11 @@ No example
 
 [Example](https://godbolt.org/z/n7c6dfKx1)
 
+### std::spanstream
+
+[Example](https://godbolt.org/z/9qPdsPEfe)
+
 ### std::byteswap
 
-[Example](https://godbolt.org/z/G6f37qdvr)
+[Example](https://godbolt.org/z/9qPdsPEfe)
+
