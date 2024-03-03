@@ -130,3 +130,8 @@ No example
 
 [Example](https://godbolt.org/z/68vY1vbqn)
 
+### Associative Containers Heterogeneous Erasure
+
+[Example](https://godbolt.org/z/snT7nzxYh)
+
+
