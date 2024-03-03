@@ -113,3 +113,11 @@ No example
 ### std::expected
 
 [Example](https://godbolt.org/z/G6f37qdvr)
+
+### std::move_only_function
+
+[Example](https://godbolt.org/z/n7c6dfKx1)
+
+### std::byteswap
+
+[Example](https://godbolt.org/z/G6f37qdvr)
