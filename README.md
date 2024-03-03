@@ -124,5 +124,5 @@ No example
 
 ### std::byteswap
 
-[Example](https://godbolt.org/z/9qPdsPEfe)
+[Example](https://godbolt.org/z/YnKdb5435)
 
