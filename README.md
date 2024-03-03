@@ -126,3 +126,7 @@ No example
 
 [Example](https://godbolt.org/z/YnKdb5435)
 
+### std::to_underlying
+
+[Example](https://godbolt.org/z/68vY1vbqn)
+
