@@ -105,3 +105,7 @@ No example
 ### Changes to Ranges Library
 
 [Example](https://godbolt.org/z/6xex8jh7n)
+
+### Changes to Views Library
+
+[Example](https://godbolt.org/z/5PzTKodbP)
