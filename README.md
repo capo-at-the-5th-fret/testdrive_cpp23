@@ -97,3 +97,11 @@ No example
 ### Monadic Operations for std::optional
 
 [Example](https://godbolt.org/z/3a31szvqK)
+
+### Stacktrace Library
+
+[Example](https://godbolt.org/z/Y4se7vMzz)
+
+### Changes to Ranges Library
+
+[Example](https://godbolt.org/z/6xex8jh7n)
