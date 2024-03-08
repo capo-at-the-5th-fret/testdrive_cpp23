@@ -92,7 +92,7 @@ No example
 
 [Example](https://godbolt.org/z/Pxez35axE)
 
-[Benchmark](https://quick-bench.com/q/InKHV-KCjgZTgUaa2RGtVMugtoQ)
+[Benchmark](https://quick-bench.com/q/Psp_3YX70eG5wMDeTge9Xr1yn-8)
 
 ### Monadic Operations for std::optional
 
